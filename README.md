@@ -11,9 +11,10 @@ No installation is necessary.
 Please contact the corresponding authors of the paper for information about this repository or about collaborating on future work.
 
 # Code References
-
-Zuur, A. F., Ieno, E. N., Walker, N., Saveliev, A. A., & Smith, G. M. (2009). Mixed effects models and extensions in ecology with R. Springer New York. https://doi.org/10.1007/978-0-387-87458-6
-
 H. Rue, S. Martino, and N. Chopin. (2009). Approximate Bayesian inference for latent Gaussian models using integrated nested Laplace approximations (with discussion). Journal of the Royal Statistical Society, Series B,71(2):319{392}
 
 Keel, D.J., Karpenko, K., Blankenship, S.M., Schumer, G., O'Rourke, O., Ostberg, C.O., Chase, D.A., and J.J. Duda. (In Prep). A molecular specimen bank for contemporary and future study captures landscape-scale fish biodiversity baseline before Klamath River dam-removal.
+
+Zuur, A. F., Ieno, E. N., Walker, N., Saveliev, A. A., & Smith, G. M. (2009). Mixed effects models and extensions in ecology with R. Springer New York. https://doi.org/10.1007/978-0-387-87458-6
+
+
