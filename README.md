@@ -10,7 +10,7 @@ No installation is necessary.
 # Contribute
 Please contact the corresponding authors of the paper for information about this repository or about collaborating on future work.
 
-# References
+# Code References
 
 Zuur, A. F., Ieno, E. N., Walker, N., Saveliev, A. A., & Smith, G. M. (2009). Mixed effects models and extensions in ecology with R. Springer New York. https://doi.org/10.1007/978-0-387-87458-6
 
