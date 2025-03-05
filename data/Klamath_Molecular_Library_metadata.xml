@@ -1,0 +1,1760 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--Record created using version 2.0.7 of the USGS Metadata Wizard tool. (https://github.com/usgs/fort-pymdwizard)-->
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Dylan J. Keel</origin>
+        <origin>Katie Karpenko</origin>
+        <origin>Scott M. Blankenship</origin>
+        <origin>Gregg Schumer</origin>
+        <origin>Oshun O'Rourke</origin>
+        <origin>Carl O. Ostberg</origin>
+        <origin>Daniel A. Chase</origin>
+        <origin>Jeffrey J. Duda</origin>
+        <pubdate>20250304</pubdate>
+        <title>Klamath River Renewal Project Molecular Library</title>
+        <edition>1st</edition>
+        <geoform>tabular digital data</geoform>
+        <onlink>https://doi.org/10.5061/dryad.0cfxpnwcn</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Klamath River Renewal Project (KRRP) is a large dam removal and river restoration project in California and Oregon, United States. With the removal of four large dams in 2024, restoration of connectivity to 640 river kilometers occurred. We created the KRRP molecular library, an environmental specimen bank, for long-term curation of environmental nucleic acids collected from the restoration project area. The library established sampling stations from 45 main stem and tributary sites, as well as pre-dam removal water samples preserved for environmental nucleic acids (eDNA and eRNA) intended to provide long-term use of both raw and extracted molecular material used to track the ecosystem response to dam removal. On a subset of samples, we conducted DNA metabarcoding using next generation sequencing based on the MiFish-U and modified MiFish-U-F primer sets. We used sequence reads to visualize data and calculate diversity metrics to establish a pre-dam removal baseline and proof of concept that the molecular techniques could resolve changes to fish and other aquatic organisms resulting from short- and long-term changes due to dam removal. These and future sampling efforts should, at a minimum, allow tracking of fish community response to ecosystem restoration. </abstract>
+      <purpose>The Klamath River Renewal Project Molecular Library introduces a framework for landscape-scale restoration research and monitoring with eNA (i.e. eDNA and eRNA). By collecting eNA from the Klamath River and tributaries before dam removal and establishing a repeatable protocol for subsequent collection, preservation, and analysis, we created a baseline for managers and researchers to retrospectively query changes to the pre-impact condition. Additionally, we demonstrated the validity of this methodology for discerning patterns in landscape biodiversity by analyzing the effects of pre-dam removal habitat types on the native fish community.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20230717</begdate>
+          <enddate>20230720</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Klamath River hydroelectric project area</descgeog>
+      <bounding>
+        <westbc>-122.9665</westbc>
+        <eastbc>-121.9551</eastbc>
+        <northbc>42.1644</northbc>
+        <southbc>41.6083</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt/>
+        <themekey/>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>biodiversity</themekey>
+        <themekey>environmental DNA</themekey>
+      </theme>
+      <theme>
+        <themekt>Marine Realms Information Bank (MRIB) keywords</themekt>
+        <themekey>ecosystem restoration</themekey>
+        <themekey>dam removal</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Klamath</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Pomoxis nigromaculatus</taxonkey>
+        <taxonkey>Lepomis macrochirus</taxonkey>
+        <taxonkey>Lepomis cyanellus</taxonkey>
+        <taxonkey>Lepomis gibbosus</taxonkey>
+        <taxonkey>Micropterus salmoides</taxonkey>
+        <taxonkey>Perca flavescens</taxonkey>
+        <taxonkey>Cottidae</taxonkey>
+        <taxonkey>Ameiurus</taxonkey>
+        <taxonkey>Ameiurus natalis</taxonkey>
+        <taxonkey>Cyprinidae</taxonkey>
+        <taxonkey>Carassius auratus</taxonkey>
+        <taxonkey>Pimephales promelas</taxonkey>
+        <taxonkey>Rhinichthys osculus</taxonkey>
+        <taxonkey>Notemigonus crysoleucas</taxonkey>
+        <taxonkey>Siphateles bicolor</taxonkey>
+        <taxonkey>Catostomidae</taxonkey>
+        <taxonkey>Salmo trutta</taxonkey>
+        <taxonkey>Oncorhynchus mykiss</taxonkey>
+        <taxonkey>Oncorhynchus tshawytscha</taxonkey>
+        <taxonkey>Oncorhynchus kisutch</taxonkey>
+        <taxonkey>Castor canadensis</taxonkey>
+        <taxonkey>Petromyzontidae</taxonkey>
+        <taxonkey>Ursus americanus</taxonkey>
+        <taxonkey>Lithobates catesbeianus</taxonkey>
+        <taxonkey>Turdus migratorius</taxonkey>
+        <taxonkey>Neurotrichus gibbsii</taxonkey>
+        <taxonkey>Aphelocoma californica</taxonkey>
+        <taxonkey>Dicamptodon tenebrosus</taxonkey>
+        <taxonkey>Sorex cinereus</taxonkey>
+        <taxonkey>Corvidae</taxonkey>
+        <taxonkey>Odocoileus</taxonkey>
+        <taxonkey>Phalacrocorax auritus</taxonkey>
+        <taxonkey>Anatidae</taxonkey>
+        <taxonkey>Anas</taxonkey>
+        <taxonkey>Ambystoma</taxonkey>
+        <taxonkey>Myotis</taxonkey>
+        <taxonkey>Ondatra zibethicus</taxonkey>
+        <taxonkey>Passerellidae</taxonkey>
+        <taxonkey>Lontra canadensis</taxonkey>
+        <taxonkey>Scapanus latimanus</taxonkey>
+        <taxonkey>Pseudacris regilla</taxonkey>
+        <taxonkey>Neotoma</taxonkey>
+        <taxonkey>Procyon lotor</taxonkey>
+        <taxonkey>Elgaria multicarinata</taxonkey>
+        <taxonkey>Mephitis mephitis</taxonkey>
+        <taxonkey>Ascaphus</taxonkey>
+        <taxonkey>Turdidae</taxonkey>
+        <taxonkey>Passeriformes</taxonkey>
+        <taxonkey>Cricetidae</taxonkey>
+        <taxonkey>Sceloporus occidentalis</taxonkey>
+        <taxonkey>Actinemys marmorata</taxonkey>
+        <taxonkey>Anaxyrus boreas</taxonkey>
+        <taxonkey>Melanitta deglandi</taxonkey>
+        <taxonkey>Aix sponsa</taxonkey>
+        <taxonkey>Picidae</taxonkey>
+        <taxonkey>Myotis yumanensis</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Actinopterygii</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Teleostei</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Superorder</taxonrn>
+                        <taxonrv>Acanthopterygii</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Perciformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Suborder</taxonrn>
+                            <taxonrv>Percoidei</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Centrarchidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Pomoxis</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Pomoxis nigromaculatus</taxonrv>
+                                  <common>TSN: 168167</common>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Lepomis</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Lepomis macrochirus</taxonrv>
+                                  <common>TSN: 168141</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Lepomis cyanellus</taxonrv>
+                                  <common>TSN: 168132</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Lepomis gibbosus</taxonrv>
+                                  <common>TSN: 168144</common>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Micropterus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Micropterus salmoides</taxonrv>
+                                  <common>TSN: 168160</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Percidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Perca</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Perca flavescens</taxonrv>
+                                  <common>TSN: 168469</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Scorpaeniformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Suborder</taxonrn>
+                            <taxonrv>Cottoidei</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Superfamily</taxonrn>
+                              <taxonrv>Cottoidea</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Cottidae</taxonrv>
+                                <common>TSN: 167196</common>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Superorder</taxonrn>
+                        <taxonrv>Ostariophysi</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Siluriformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Family</taxonrn>
+                            <taxonrv>Ictaluridae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Genus</taxonrn>
+                              <taxonrv>Ameiurus</taxonrv>
+                              <common>TSN: 164034</common>
+                              <taxoncl>
+                                <taxonrn>Species</taxonrn>
+                                <taxonrv>Ameiurus natalis</taxonrv>
+                                <common>TSN: 164041</common>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Cypriniformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Superfamily</taxonrn>
+                            <taxonrv>Cyprinoidea</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Cyprinidae</taxonrv>
+                              <common>TSN: 163342</common>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Carassius</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Carassius auratus</taxonrv>
+                                  <common>TSN: 163350</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Leuciscidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Pogonichthyinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Pimephales</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Pimephales promelas</taxonrv>
+                                    <common>TSN: 163517</common>
+                                  </taxoncl>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Rhinichthys</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Rhinichthys osculus</taxonrv>
+                                    <common>TSN: 163387</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Leuciscinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Notemigonus</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Notemigonus crysoleucas</taxonrv>
+                                    <common>TSN: 163368</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Laviniinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Siphateles</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Siphateles bicolor</taxonrv>
+                                    <common>TSN: 913989</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Superfamily</taxonrn>
+                            <taxonrv>Cobitoidea</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Catostomidae</taxonrv>
+                              <common>TSN: 163892</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Superorder</taxonrn>
+                        <taxonrv>Protacanthopterygii</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Salmoniformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Family</taxonrn>
+                            <taxonrv>Salmonidae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Subfamily</taxonrn>
+                              <taxonrv>Salmoninae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Salmo</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Salmo trutta</taxonrv>
+                                  <common>TSN: 161997</common>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Oncorhynchus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Oncorhynchus mykiss</taxonrv>
+                                  <common>TSN: 161989</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Oncorhynchus tshawytscha</taxonrv>
+                                  <common>TSN: 161980</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Oncorhynchus kisutch</taxonrv>
+                                  <common>TSN: 161977</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Mammalia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Subclass</taxonrn>
+                        <taxonrv>Theria</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Infraclass</taxonrn>
+                          <taxonrv>Eutheria</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Rodentia</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Suborder</taxonrn>
+                              <taxonrv>Castorimorpha</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Castoridae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Castor</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Castor canadensis</taxonrv>
+                                    <common>TSN: 180212</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Suborder</taxonrn>
+                              <taxonrv>Myomorpha</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Superfamily</taxonrn>
+                                <taxonrv>Muroidea</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Family</taxonrn>
+                                  <taxonrv>Cricetidae</taxonrv>
+                                  <common>TSN: 180274</common>
+                                  <taxoncl>
+                                    <taxonrn>Subfamily</taxonrn>
+                                    <taxonrv>Arvicolinae</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Genus</taxonrn>
+                                      <taxonrv>Ondatra</taxonrv>
+                                      <taxoncl>
+                                        <taxonrn>Species</taxonrn>
+                                        <taxonrv>Ondatra zibethicus</taxonrv>
+                                        <common>TSN: 180318</common>
+                                      </taxoncl>
+                                    </taxoncl>
+                                  </taxoncl>
+                                  <taxoncl>
+                                    <taxonrn>Subfamily</taxonrn>
+                                    <taxonrv>Neotominae</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Genus</taxonrn>
+                                      <taxonrv>Neotoma</taxonrv>
+                                      <common>TSN: 180369</common>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Carnivora</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Suborder</taxonrn>
+                              <taxonrv>Caniformia</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Ursidae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Ursus</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Ursus americanus</taxonrv>
+                                    <common>TSN: 180544</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Mustelidae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Subfamily</taxonrn>
+                                  <taxonrv>Lutrinae</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Genus</taxonrn>
+                                    <taxonrv>Lontra</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Species</taxonrn>
+                                      <taxonrv>Lontra canadensis</taxonrv>
+                                      <common>TSN: 180549</common>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Procyonidae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Procyon</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Procyon lotor</taxonrv>
+                                    <common>TSN: 180575</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Mephitidae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Mephitis</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Mephitis mephitis</taxonrv>
+                                    <common>TSN: 180562</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Eulipotyphla</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Talpidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Talpinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Tribe</taxonrn>
+                                  <taxonrv>Urotrichini</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Genus</taxonrn>
+                                    <taxonrv>Neurotrichus</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Species</taxonrn>
+                                      <taxonrv>Neurotrichus gibbsii</taxonrv>
+                                      <common>TSN: 179975</common>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Tribe</taxonrn>
+                                  <taxonrv>Scalopini</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Genus</taxonrn>
+                                    <taxonrv>Scapanus</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Species</taxonrn>
+                                      <taxonrv>Scapanus latimanus</taxonrv>
+                                      <common>TSN: 179981</common>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Soricidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Soricinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Tribe</taxonrn>
+                                  <taxonrv>Soricini</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Genus</taxonrn>
+                                    <taxonrv>Sorex</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Species</taxonrn>
+                                      <taxonrv>Sorex cinereus</taxonrv>
+                                      <common>TSN: 179929</common>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Artiodactyla</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Cervidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Capreolinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Odocoileus</taxonrv>
+                                  <common>TSN: 180697</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Chiroptera</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Suborder</taxonrn>
+                              <taxonrv>Yangochiroptera</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Superfamily</taxonrn>
+                                <taxonrv>Vespertilionoidea</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Family</taxonrn>
+                                  <taxonrv>Vespertilionidae</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Subfamily</taxonrn>
+                                    <taxonrv>Myotinae</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Genus</taxonrn>
+                                      <taxonrv>Myotis</taxonrv>
+                                      <common>TSN: 179987</common>
+                                      <taxoncl>
+                                        <taxonrn>Subgenus</taxonrn>
+                                        <taxonrv>Myotis (Pizonyx)</taxonrv>
+                                        <taxoncl>
+                                          <taxonrn>Species</taxonrn>
+                                          <taxonrv>Myotis yumanensis</taxonrv>
+                                          <common>TSN: 180004</common>
+                                        </taxoncl>
+                                      </taxoncl>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Amphibia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Anura</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Ranidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Lithobates</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Lithobates catesbeianus</taxonrv>
+                              <common>TSN: 775084</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Hylidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Subfamily</taxonrn>
+                            <taxonrv>Acridinae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Genus</taxonrn>
+                              <taxonrv>Pseudacris</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Species</taxonrn>
+                                <taxonrv>Pseudacris regilla</taxonrv>
+                                <common>TSN: 207313</common>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Ascaphidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Ascaphus</taxonrv>
+                            <common>TSN: 173545</common>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Bufonidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Anaxyrus</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Anaxyrus boreas</taxonrv>
+                              <common>TSN: 773513</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Caudata</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Ambystomatidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Dicamptodon</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Dicamptodon tenebrosus</taxonrv>
+                              <common>TSN: 550242</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Ambystoma</taxonrv>
+                            <common>TSN: 173589</common>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Aves</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Passeriformes</taxonrv>
+                        <common>TSN: 178265</common>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Turdidae</taxonrv>
+                          <common>TSN: 179751</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Turdus</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Turdus migratorius</taxonrv>
+                              <common>TSN: 179759</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Corvidae</taxonrv>
+                          <common>TSN: 179665</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Aphelocoma</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Aphelocoma californica</taxonrv>
+                              <common>TSN: 554128</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Passerellidae</taxonrv>
+                          <common>TSN: 1189744</common>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Suliformes</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Phalacrocoracidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Phalacrocorax</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Phalacrocorax auritus</taxonrv>
+                              <common>TSN: 174717</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Anseriformes</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Anatidae</taxonrv>
+                          <common>TSN: 174983</common>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Anas</taxonrv>
+                            <common>TSN: 175062</common>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Melanitta</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Melanitta deglandi</taxonrv>
+                              <common>TSN: 175167</common>
+                            </taxoncl>
+                          </taxoncl>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Aix</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Aix sponsa</taxonrv>
+                              <common>TSN: 175122</common>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Piciformes</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Picidae</taxonrv>
+                          <common>TSN: 178148</common>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Reptilia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Squamata</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Suborder</taxonrn>
+                          <taxonrv>Autarchoglossa</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Family</taxonrn>
+                            <taxonrv>Anguidae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Subfamily</taxonrn>
+                              <taxonrv>Gerrhonotinae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Elgaria</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Elgaria multicarinata</taxonrv>
+                                  <common>TSN: 209020</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Suborder</taxonrn>
+                          <taxonrv>Iguania</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Family</taxonrn>
+                            <taxonrv>Iguanidae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Subfamily</taxonrn>
+                              <taxonrv>Sceloporinae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Sceloporus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Sceloporus occidentalis</taxonrv>
+                                  <common>TSN: 173875</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Testudines</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Suborder</taxonrn>
+                          <taxonrv>Cryptodira</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Superfamily</taxonrn>
+                            <taxonrv>Testudinoidea</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Emydidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Emydinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Actinemys</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Actinemys marmorata</taxonrv>
+                                    <common>TSN: 668668</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Agnatha</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Class</taxonrn>
+                    <taxonrv>Cephalaspidomorphi</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Order</taxonrn>
+                      <taxonrv>Petromyzontiformes</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Family</taxonrn>
+                        <taxonrv>Petromyzontidae</taxonrv>
+                        <common>TSN: 159697</common>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Dylan Keel</cntper>
+          <cntorg>Resource Environmental Solutions</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>243 Foresthill Ave</address>
+          <city>Auburn</city>
+          <state>CA</state>
+          <postal>95603</postal>
+        </cntaddr>
+        <cntvoice>831.227.1168</cntvoice>
+        <cntemail>dkeel@res.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A formal accuracy assessment of the horizontal positional information in the data set has not been conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>A formal accuracy assessment of the vertical positional information in the data set has either not been conducted, or is not applicable.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>On the Klamath River, we selected monitoring locations systematically every 2 km along the river and reservoirs and every 1 km along selected tributaries, with additional sites included near long-term monitoring locations important to the restoration project. Monitoring locations spanned approximately 114 km of mainstem and tributary habitat. Sites were selected along navigable streams and only at locations where long-term continued accessibility was assumed. Sites along the river extend from approximately 3.5 km downstream of the lowermost dam upstream to where the river enters the uppermost reservoir to be removed. Tributary sites extended upstream to fish migration barriers, or as far as the project boundary allowed. Additionally, six “reference” sites in the Scott River basin, a large tributary downstream of the project area were included to represent habitat not impacted by dams. Having a range of non-treatment reaches from which to compare treatment (i.e., dam removal) effects will be more representative of recovered conditions and biological communities </procdesc>
+        <procdate>20230101</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>We collected 405 samples from 44 monitoring locations on 17 - 20 July, 2023. Access allowing, we collected three liters of stream water from each bank and the center of the channel at each site, for a total of nine liters. The nine liters of water were combined into a single vessel, agitated to encourage homogenization, and decanted into nine replicate samples via a filtering manifold. Each replicate was filtered in the field through 0.45 µm pore-size PVDF Sterivex filters, which capture eNA from the environment by trapping particles within the filter matrix, using Cole Parmer easy loader II peristaltic pumps and sterile Masterflex silicone tubing for each monitoring site. Pumps were affixed in parallel to allow for simultaneous filtration of three filter replicates and powered using a brushless, cordless drill with a 12.7 mm spade bit attachment.  Field crews followed protocols to assess and minimize the risk of contamination including using sterile single-use filters, caps and tubing, changing nitrile gloves frequently, and collecting field controls at the start of each sampling day. When field sampling was complete, samples were preserved by pipetting into each filter cartridge1.5 mL of RNAprotect Tissue Reagent (Qiagen) following practices to maximize the probability of stabilizing genetic material.</procdesc>
+        <procdate>20230717</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Dylan Keel</cntper>
+            </cntperp>
+            <cntaddr>
+              <addrtype/>
+              <address/>
+              <city/>
+              <state/>
+              <postal/>
+            </cntaddr>
+            <cntvoice>831.227.1168</cntvoice>
+            <cntemail>dkeel@res.us</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Site-level water quality measurements (water temperature, dissolved oxygen, and specific conductance) were collected with a Yellowstone Instruments ProQuatro multiparameter meter and air temperature with a Kestrel rotating-vane thermistor. </procdesc>
+        <procdate>20230717</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Total DNA was isolated from each filter and purified to remove non-target cellular and environmental contaminants using the QIAamp DNA mini kit (Qiagen) and following a standard protocol with modifications. First, RNAprotect Tissue Reagent was evacuated from each filter by manually shaking the liquid from the cartridge. The exterior of each filter was sterilized with a PCR clean wipe to avoid cross contamination. We added 440 μL of the Buffer PBS/Buffer AL/Proteinase K lysis solution to each filter by injecting the solution into the Sterivex cartridge using a filtered pipette tip. The filters were incubated for 5 min at 56 °C, then affixed to a vortex mixer to undergo two ten-minute room temperature vortex sessions. Between sessions, the filters were rotated 180° to ensure full coverage of the filter membrane. The solution was transferred from the Sterivex cartridge to a 1.5 mL microcentrifuge tube, and then QIAamp mini spin columns were used to bind DNA, and the remainder of the DNA purification and elution steps followed the published protocol by Miya et al. (2016). DNA extraction controls, created by adding 880 μL of the lysis solution to a sterile Sterivex filter, were processed in parallel with samples to confirm sample integrity throughout the extraction procedure. All samples and controls were passed through the Zymo OneStep PCR Inhibitor Removal Kit (Zymo Research) following manufacturers guidelines. DNA extraction was completed in a separate pre-PCR space using sterilized surfaces and equipment. 
+
+References:
+Miya, M. et al. Use of a filter cartridge for filtration of water samples and extraction of environmental DNA. J. Vis. Exp. JoVE (2016) doi:10.3791/54741.</procdesc>
+        <procdate>20240101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Cheryl Dean</cntper>
+              <cntorg>Genidaqs</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype/>
+              <address/>
+              <city/>
+              <state/>
+              <postal/>
+            </cntaddr>
+            <cntvoice/>
+            <cntemail>cheryl.dean@fishsciences.net</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Purified eNA can be analyzed using a variety of molecular techniques. For this study, we used DNA metabarcoding to assess the community-level composition of fish taxa at each sampling location. Metabarcoding employs next-generation sequencing with universal primers to sequence a diagnostic region of DNA that allows for species identification across taxa. We used a multiplex of the MiFish-U primer set and a modified version of the MiFish-U-F primer (GIQHerp-F), designed to enhance detection of herptile taxa, to sequence a 170 bp region of vertebrate 12S rRNA mitochondrial genome using three-step PCR approach adapted from previously published library preparation methodologies. The initial PCR was completed using non-indexed primers to enrich subsequent reactions for target DNA. Each sample was amplified in triplicate, in a total reaction volume of 10 μl containing 4 μl extracted eDNA, 0.4 μM of each forward primer (MiFish-U-F: 5’- GTCGGTAAAACTCGTGCCAGC-3’, GIQHerp-F: 5’- GCCGGCTAATCTGGTGCCAGC-3’), 0.8 μM MiFish-U-R (5’- CATAGTGGGGTATCTAATCCCAGTTTG-3’), and 1X Qiagen Plus Multiplex Master Mix. Cycling began with an initial denaturation at 95 °C for 5 min, followed by 35 cycles of 95 °C for 15 seconds, 5% ramp down to 55 °C for 30 seconds, and 72 °C for 30 seconds. The triplicate PCR products were pooled then diluted 1:10 prior to starting the Illumina adapter and barcoding processes.  
+
+The Illumina hanging tail adapters were incorporated using the MiFish-U and GIQHerp primer multiplex containing the 33 or 34 bp 5’ Illumina hanging tail adaptor sequences to provide a priming site for the addition of dual indexed barcode sequences. Each reaction consisted of a 12 μl total volume containing 2 μl pooled and diluted product from the previous PCR, 0.3 μM of each Illumina adapter forward primer, 0.6 μM of the Illumina adapter reverse primer, and 6 μl KAPA HiFi HotStart ReadyMix (Roche Diagnostics). The cycling profile was as follows: 95 °C for 5 min, 5 cycles of 98 °C for 20 seconds, 1% ramp down to 65 °C for 15 seconds, and 72 °C for 15 seconds, then 7 cycles of 98 °C for 20 seconds, 5% ramp down to 65 °C for 15 seconds, 72 °C for 15 seconds. PCR products were diluted 1:10 and used as template in the final PCR step. The paired-end dual indices that allow for sample identification and de-multiplexing were incorporated during the final PCR step. Each PCR was completed in a total volume of 12 μl, composed of 0.3 μM of the forward and reverse index primers, 6 μl 1X KAPA HiFi HotStart ReadyMix, and 1 μl of the diluted product from the previous PCR. Amplification started with 95 °C for 3 min, followed by 10 cycles of 98 °C for 20 seconds, 5% ramp down to 72 °C for 15 seconds, and final extension 72 °C for 5 min. All PCR steps were completed using BioRad C1000 Touch thermal cyclers (Bio-Rad Laboratories) in a designated PCR space.  
+
+Equal volumes of the indexed PCR products were pooled, then size selected (c. 370) using 2% gel electrophoresis and purified using QIAquick Gel Extraction Kit (Qiagen) following the manufacturers guidelines for next-generation sequencing. Purified libraries were quantified using the Qubit 4 fluorometer and Qubit dsDNA HS assay Kit (Thermo Fisher Scientific), and sequenced on the Illumina Miseq system (Illumina, San Diego, CA, USA) using the v2 300-cycle chemistry. The final loading concentration was 8 pM with a 10% PhiX spike-in added as a sequencing control. A UV sterilized hood was used to prepare master mix for all PCR steps and to add extracted DNA during the initial PCR. All intermediate dilution, DNA transfer, and final pooling steps were completed in designated post-PCR spaces using sterilized pipettes and bench tops. No template PCR controls were processed in parallel with samples and sequenced to confirm process integrity. 
+
+To determine provisional species identification, the resultant sequencing data were compiled and processed using the MetaWorks pipeline, 12S vertebrate classifier, and default parameters (Porter and Hajibabaei, 2022). We removed any detections with less than 100 sequence reads to screen out potential artifact sequences. Final taxonomic assignment was verified against the NIH National Center for Biotechnology Information reference database using the BLAST algorithm. BLAST compares DNA nucleotide variation between sequences to calculate genetic similarity of input (detected) sequences to known voucher sequences. Provisional species with a greater than or equal to 97% sequence similarity to a known species in the reference database were considered a match and successfully identified to species. Sequences with greater than 97% ID match to multiple species that could co-occur within the sampling region were assigned to the taxonomic level that appropriately captured all potential matches (e.g., Cottus spp.). Any detections that could result from anthropogenic inputs (human, cat, dog, cow, chicken, and pig) were removed from analysis. 
+
+References:
+Porter, T. M. &amp; Hajibabaei, M. MetaWorks: A flexible, scalable bioinformatic pipeline for high-throughput multi-marker biodiversity assessments. PLOS ONE 17, e0274260 (2022).</procdesc>
+        <procdate>20240101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Cheryl Dean</cntper>
+              <cntorg>Genidaqs</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype/>
+              <address/>
+              <city/>
+              <state/>
+              <postal/>
+            </cntaddr>
+            <cntvoice/>
+            <cntemail>cheryl.dean@fishsciences.net</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Klamath_ML_Sample.ID.Metadata.2024.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Sample.ID</attrlabl>
+        <attrdef>A unique sample identification code for each sampling site</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A unique sample identification code for each sampling site</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Replicate.Number</attrlabl><attrdef>The number of the water sample filter from each site level pooled sample</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>1</edomv>
+      <edomvd>Filter sample number 1</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2</edomv>
+      <edomvd>Filter sample number 2</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>3</edomv>
+      <edomvd>Filter sample number 3</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>4</edomv>
+      <edomvd>Filter sample number 4</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>5</edomv>
+      <edomvd>Filter sample number 5</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>6</edomv>
+      <edomvd>Filter sample number 6</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>7</edomv>
+      <edomvd>Filter sample number 7</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>8</edomv>
+      <edomvd>Filter sample number 8</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>9</edomv>
+      <edomvd>Filter sample number 9</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>10</edomv>
+      <edomvd>Filter sample number 10</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Sample.Volume</attrlabl>
+        <attrdef>The volume in milliliters that was filtered for a replicate from the pooled water sample at each site location. </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1425</rdommax>
+            <attrunit>milliliter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sample.Collection.Method</attrlabl>
+        <attrdef>Identifies whether a replicate was collected from a pooled sample or a deionized water blank serving as a negative control</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Pooled water sample describes the replicates taken from the site level pooled water sample. Deionized water describes the replicates taken from a deionized water blank serving as a negative control.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Filter.Preservation.Method</attrlabl>
+        <attrdef>Description of how each eNA filter was preserved in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>RNAprotect Tissue Reagent is a commercial product for preserving tissue samples so that they are compatible with nucleic acid analysis</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sample.Notes</attrlabl>
+        <attrdef>Observations from the field </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><udom>Observations of note about the sampling methods and outcomes while in the field when the sampling occurred. </udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Filter.Type</attrlabl><attrdef>The type of filter used to collect the eNA sample	</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Sterivex</edomv>
+      <edomvd>Sterivex is a commercial product used for filtering water samples</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>Filter.Pore.Size</attrlabl><attrdef>The pore size of the filter</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>0.45 micron</edomv>
+      <edomvd>The filter pore size in microns</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Survey.Date.and.Time</attrlabl>
+        <attrdef>The year, month, day, and time of sampling</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>The year, month, day, and time of sampling</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site.Name</attrlabl>
+        <attrdef>Unique site identifying code name</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>A unique site identifying code name specific to each sampling location. </udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Crew</attrlabl>
+        <attrdef>Initials of field staff involved with data collection</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><udom>Initials of field staff
+</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Blank.Included</attrlabl><attrdef>A column flagging whether the site involved collection of a field blank negative control</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>yes</edomv>
+      <edomvd>A field blank negative control was collected at this location</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>no</edomv>
+      <edomvd>A field blank negative control was not collected at this location</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Site.Notes</attrlabl>
+        <attrdef>Observations from the field </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><udom>Observations of note about the sampling site while in the field when the sampling occurred. </udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>County</attrlabl><attrdef>County name</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Klamath</edomv>
+      <edomvd>A county in the state of Oregon</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Siskiyou</edomv>
+      <edomvd>A county in the State of California</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>State</attrlabl><attrdef>State Name abbreviation</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>OR</edomv>
+      <edomvd>The state of Oregon</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>CA</edomv>
+      <edomvd>The state of California</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>Year of sampling</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>2023</rdommin>
+            <rdommax>2024</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Habitat</attrlabl><attrdef>Aquatic habitat type where sampling occurred</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Stream</edomv>
+      <edomvd>The mainstem Klamath River or one of its tributaries or reference site (Scott River)</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Reservoir</edomv>
+      <edomvd>An impoundment behind one of the Klamath Dams.</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>Size</attrlabl><attrdef>A categorical variable related to the river waterbody size, differentiating mainstem Klamath River and tributary sites and Scott River</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Mainstem</edomv>
+      <edomvd>Sample site occurred on the  mainstem Klamath River or Scott River</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Tributary</edomv>
+      <edomvd>Sample site occurred on a tributary to the Klamath River or Scott River</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+  <attrlabl>Site.Character</attrlabl><attrdef>Differentiates between sites that could be impacted by dam removal from those that are not expected to be directly impacted by dam removal and and whether those sites are upstream of natural migration barriers to anadromous fish  or are accessible to anadromous fish.</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Dam removal, anadromous</edomv>
+      <edomvd>The site is on the Klamath River or one of its tributaries and is on a reach accessible to anadromous fish</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Dam removal, above barrier</edomv>
+      <edomvd>The site is on the Klamath River or one of its tributaries and is on a reach upstream of a natural migration barrier to anadromous fish</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Reference, anadromous</edomv>
+      <edomvd>The site is on the Scott River or one of its tributaries and is on a reach accessible to anadromous fish</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Project.Name</attrlabl>
+        <attrdef>The title of the project</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>The title of the project</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Waterbody.Name</attrlabl>
+        <attrdef>Name of river or tributary water body where water samples were collected</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>Name of river or tributary water body where water samples were collected</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Sample.Depth</attrlabl><attrdef>A description of where in the water column a water sample was collected</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Surface</edomv>
+      <edomvd>The water sample was collected from the surface of the water body</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Sub.Site.Locations</attrlabl>
+        <attrdef>At each study site, a composite water sample was collected from combinations of left bank, center channel, or right bank locations depending on accessibility</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No data</edomvd>
+  <edomvds>
+  </edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><udom>L = left bank, R = right bank, C = center</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>flow.CMS</attrlabl>
+        <attrdef>Model estimated discharge of the river or tributary where the water sample was collected based on USGS gage data</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No data</edomvd>
+  <edomvds>
+  </edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0.246802</rdommin>
+            <rdommax>26.57534</rdommax>
+            <attrunit>cubic meters per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Air.Temperature</attrlabl>
+        <attrdef>Temperature of the air during the time of sampling </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>18.1</rdommin>
+            <rdommax>40.0</rdommax>
+            <attrunit>Celsius</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Water.Temperature</attrlabl>
+        <attrdef>Temperature of the water during the time of sampling </attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>12.3</rdommin>
+            <rdommax>29.88888889</rdommax>
+            <attrunit>Celsius</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Dissolved.Oxygen</attrlabl>
+        <attrdef>Dissolved oxygen of water sampling location based on multiprobe measurement</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>6.92</rdommin>
+            <rdommax>19.0</rdommax>
+            <attrunit>mg/L</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Specific.Conductance</attrlabl>
+        <attrdef>Specific conductance of water sampling location based on multiprobe measurement</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>583.0</rdommax>
+            <attrunit>microsemens per centimeter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>pH</attrlabl>
+        <attrdef>pH of water sampling location based on multiprobe measurement</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>6</rdommin>
+            <rdommax>8</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>X.Coordinate</attrlabl>
+        <attrdef>Longitude coordinate in decimal degrees</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>-123.1249663</rdommin>
+            <rdommax>-122.0237201</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Y.Coordinate</attrlabl>
+        <attrdef>Latitude coordinate in decimal degrees</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>41.63151082</rdommin>
+            <rdommax>42.17417132</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Extraction.Status</attrlabl><attrdef>Designates whether the environmental sample has been extracted and the type of extraction</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Not extracted</edomv>
+      <edomvd>The nucleic acids from the sample have not been extracted</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>RNA extraction</edomv>
+      <edomvd>The sample has undergone nucleic acid extraction suitable for RNA analysis</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>DNA extraction</edomv>
+      <edomvd>The sample has undergone nucleic acid extraction suitable for DNA analysis</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Location.Storage.Method</attrlabl>
+        <attrdef>Description of how the sample has been stored</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><udom>The location and type of freezer where the sample is reposited.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DNA.Volume.ul.remaining</attrlabl>
+        <attrdef>The amount of extracted DNA sample volume remaining in the original sample</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>66</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RNA.Volume.ul.remaining</attrlabl>
+        <attrdef>The amount extracted of RNA sample volume remaining in the original sample</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+  <edomv>NA</edomv>
+  <edomvd>No Data</edomvd>
+  <edomvds>Producer defined</edomvds>
+</edom>
+        </attrdomv>
+        <attrdomv><rdom>
+            <rdommin>100</rdommin>
+            <rdommax>100</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Klamath_ML_Raw.Reads.2023.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+  <attrlabl>MiseqRun</attrlabl><attrdef>The run identifier code for the DNA next generation sequencing that was conducted on a Illumnina Miseq </attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>1rr</edomv>
+      <edomvd>The first miseq run</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>2</edomv>
+      <edomvd>The second miseq run</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>Sample.ID</attrlabl>
+        <attrdef>A unique sample identification code for each sampling site</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A unique sample identification code for each sampling site</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ESVseq</attrlabl>
+        <attrdef>"Exact Sequence Variant", referring to the unique DNA sequence obtained from metabarcoding.
+</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A unique DNA sequence obtained from metabarcoding</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ESVsize</attrlabl>
+        <attrdef>ESVsize is the number of reads of the given ESVseq</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>100</rdommin>
+            <rdommax>148878</rdommax>
+            <attrunit>Read depth</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CommonName</attrlabl>
+        <attrdef>The common name of the taxon identified from next generation sequencing results.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom/>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Klamath.Type</attrlabl>
+        <attrdef>Klamath.type is a taxon-specific which allows tracking of the number of ESVs identified per species.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Multiple ESVs may be assigned to the same species due to intraspecific genetic diversity (multiple haplotypes) or unresolved taxonomy (cryptic diversity). </udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ReportName</attrlabl>
+        <attrdef>The taxonomic identification from the BLAST results</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Scientific name of the identified taxon</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+  <attrlabl>Type</attrlabl><attrdef>A broad categorization of the identified taxon into mammal, herpetofauna, bird, or fish groups</attrdef><attrdefs>Producer Defined</attrdefs><attrdomv>
+    <edom>
+      <edomv>Mammal</edomv>
+      <edomvd>An organism belonging to the class Mammalia</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Herp</edomv>
+      <edomvd>An organism belonging to the class Amphibia or class Reptilia</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Bird</edomv>
+      <edomvd>An organism belonging to the class Aves</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+  <attrdomv>
+    <edom>
+      <edomv>Fish</edomv>
+      <edomvd>An organism belonging to the clade Osteichthyes</edomvd>
+      <edomvds>Producer defined</edomvds>
+    </edom>
+  </attrdomv>
+</attr>
+      <attr>
+        <attrlabl>sppIDNotes</attrlabl>
+        <attrdef>Notes of interest or explanation regarding the taxonomic identification based on reference database output</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom/>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site.Name</attrlabl>
+        <attrdef>Unique site identifying code name</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A unique site identifying code name specific to each sampling location. </udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>The year the sample was collected</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv><rdom>
+            <rdommin>2023</rdommin>
+            <rdommax>2023</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Dylan Keel</cntper>
+          <cntorg>Resources Environmental Solutions (RES)</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>243 Foresthill Ave</address>
+          <city>Auburn</city>
+          <state>CA</state>
+          <postal>95603</postal>
+        </cntaddr>
+        <cntvoice>831.227.1168</cntvoice>
+        <cntemail>dkeel@res.us</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness, no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform><digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt><onlinopt><computer><networka><networkr>https://doi.org/10.5061/dryad.0cfxpnwcn</networkr></networka></computer></onlinopt></digtopt></digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20250226</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jeffrey Duda</cntper>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>6505 NE 65th Street</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98115</postal>
+        </cntaddr>
+        <cntvoice>206.526.2532</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
