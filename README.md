@@ -6,6 +6,9 @@ Global restoration and conservation of freshwater biodiversity are represented i
 
 
 # Installation
+All metadata stored and annotated using The MetadataWizard by USGS Fort Collins Science Center Version 2.0.8 : https://github.com/DOI-USGS/fort-pymdwizard
+Open 
+
 Analysis conducted using:
 RStudio 2024.12.0+467 "Kousa Dogwood" Release (cf37a3e5488c937207f992226d255be71f5e3f41, 2024-12-11) for windows
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) RStudio/2024.12.0+467 Chrome/126.0.6478.234 Electron/31.7.6 Safari/537.36, Quarto 1.5.57
