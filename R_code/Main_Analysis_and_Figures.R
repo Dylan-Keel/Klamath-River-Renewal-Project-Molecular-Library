@@ -61,8 +61,8 @@ library(ggregplot)
 
 ###############
 
-# Download GitHub Repository and set as working directory
-setwd("...My File Path Here... /Downloads/Klamath-River-Renewal-Project-Molecular-Library-main/Klamath-River-Renewal-Project-Molecular-Library-main")
+# Clone GitHub Repository and set working directory
+#setwd("...My File Path Here...")
 
 # source scripts for analysis
 source("R_code/HighstatLibV13.R")
