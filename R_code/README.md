@@ -5,6 +5,4 @@ HighstatLibv13.R and INLA_plotting_functions.R are sourced in the main analysis 
 
 Install required packages noted in the main analysis script prior to replicating analyses.
 
-Before running the script, download the Klamath-River-Renewal-Project-Molecular-Library repository, open the main analysis script, and alter line 65 to your preferred file storage location for the repository.
-
 "...results/..." files are used only for replication of NMDS plotting.
